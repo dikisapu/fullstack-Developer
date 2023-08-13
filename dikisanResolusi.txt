@@ -3,4 +3,7 @@ Dikisan Resolusi
   - bangun Pagi dan olahraga
   - belajar pemograman hingga ajal menjemput
    - belajar Hal baru
+  - membaca buku jika setelah mandi
+    ^jika tidak maka akan gelisah
+  
   
